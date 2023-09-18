@@ -1,0 +1,23 @@
+D:\HK7\PTUDTM\DoAN_PMTM\QuanLyNhaHang-main\CustomControlThongKe\bin\Debug\CustomControlThongKe.dll
+D:\HK7\PTUDTM\DoAN_PMTM\QuanLyNhaHang-main\CustomControlThongKe\bin\Debug\CustomControlThongKe.pdb
+D:\HK7\PTUDTM\DoAN_PMTM\QuanLyNhaHang-main\CustomControlThongKe\obj\Debug\CustomControlThongKe.dll
+D:\HK7\PTUDTM\DoAN_PMTM\QuanLyNhaHang-main\CustomControlThongKe\obj\Debug\CustomControlThongKe.pdb
+D:\HK7\PTUDTM\DoAN_PMTM\QuanLyNhaHang-main\CustomControlThongKe\obj\Debug\CustomControlThongKe.csproj.GenerateResource.Cache
+D:\HK7\PTUDTM\DoAN_PMTM\QuanLyNhaHang-main\CustomControlThongKe\bin\Debug\Guna.UI.dll
+D:\HK7\PTUDTM\DoAN_PMTM\QuanLyNhaHang-main\CustomControlThongKe\obj\Debug\CustomControlThongKe.MyCustomCalendar.resources
+D:\HK7\PTUDTM\DoAN_PMTM\QuanLyNhaHang-main\CustomControlThongKe\obj\Debug\CustomControlThongKe.Properties.Resources.resources
+D:\HK7\PTUDTM\DoAN_PMTM\QuanLyNhaHang-main\CustomControlThongKe\obj\Debug\CustomControlThongKe.cardMoRong.resources
+D:\HK7\PTUDTM\DoAN_PMTM\QuanLyNhaHang-main\CustomControlThongKe\bin\Debug\Guna UI Activation.exe
+D:\HK7\PTUDTM\DoAN_PMTM\QuanLyNhaHang-main\CustomControlThongKe\bin\Debug\Guna UI Activation.pdb
+D:\HK7\PTUDTM\DoAN_PMTM\QuanLyNhaHang-main\CustomControlThongKe\bin\Debug\Guna UI Activation.xml
+D:\Hoan Thanh 2\QuanLyNhaHang-main\CustomControlThongKe\bin\Debug\CustomControlThongKe.dll
+D:\Hoan Thanh 2\QuanLyNhaHang-main\CustomControlThongKe\bin\Debug\CustomControlThongKe.pdb
+D:\Hoan Thanh 2\QuanLyNhaHang-main\CustomControlThongKe\bin\Debug\Guna UI Activation.pdb
+D:\Hoan Thanh 2\QuanLyNhaHang-main\CustomControlThongKe\bin\Debug\Guna UI Activation.xml
+D:\Hoan Thanh 2\QuanLyNhaHang-main\CustomControlThongKe\obj\Debug\CustomControlThongKe.csprojResolveAssemblyReference.cache
+D:\Hoan Thanh 2\QuanLyNhaHang-main\CustomControlThongKe\obj\Debug\CustomControlThongKe.cardMoRong.resources
+D:\Hoan Thanh 2\QuanLyNhaHang-main\CustomControlThongKe\obj\Debug\CustomControlThongKe.MyCustomCalendar.resources
+D:\Hoan Thanh 2\QuanLyNhaHang-main\CustomControlThongKe\obj\Debug\CustomControlThongKe.Properties.Resources.resources
+D:\Hoan Thanh 2\QuanLyNhaHang-main\CustomControlThongKe\obj\Debug\CustomControlThongKe.csproj.GenerateResource.Cache
+D:\Hoan Thanh 2\QuanLyNhaHang-main\CustomControlThongKe\obj\Debug\CustomControlThongKe.dll
+D:\Hoan Thanh 2\QuanLyNhaHang-main\CustomControlThongKe\obj\Debug\CustomControlThongKe.pdb
