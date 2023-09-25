@@ -79,3 +79,33 @@ D:\Hoan Thanh 2\QuanLyNhaHang-main\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmVouc
 D:\Hoan Thanh 2\QuanLyNhaHang-main\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
 D:\Hoan Thanh 2\QuanLyNhaHang-main\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.thoiGianThongKe.resources
 D:\Hoan Thanh 2\QuanLyNhaHang-main\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.Cache
+D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\bin\Debug\CustomControlThongKe.dll
+D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\bin\Debug\CustomControlThongKe.pdb
+D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csprojResolveAssemblyReference.cache
+D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.cardChiTietThucAn.resources
+D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.cardThem.resources
+D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.cardThucAn.resources
+D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmBaoCao.resources
+D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmChiTiet.resources
+D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmChiTietNhapHang.resources
+D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmKhachHang.resources
+D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmNhapHang.resources
+D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmSanPham.resources
+D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmTaiBan.resources
+D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmTaiQuay.resources
+D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmThem.resources
+D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmThemSP.resources
+D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmThoiGianTuyChinh.resources
+D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmThongKeHangHoa.resources
+D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmThongKeTongQuan.resources
+D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmThongTinSP.resources
+D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.btnMenu.resources
+D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmVoucher.resources
+D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.thoiGianThongKe.resources
+D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.Cache

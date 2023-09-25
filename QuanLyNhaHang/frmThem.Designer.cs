@@ -207,20 +207,22 @@
             this.gunaGradient2Panel8.BackColor = System.Drawing.Color.Transparent;
             this.gunaGradient2Panel8.Controls.Add(this.label9);
             this.gunaGradient2Panel8.Controls.Add(this.gunaCircleButton8);
+            this.gunaGradient2Panel8.Dock = System.Windows.Forms.DockStyle.Fill;
             this.gunaGradient2Panel8.GradientColor1 = System.Drawing.Color.White;
             this.gunaGradient2Panel8.GradientColor2 = System.Drawing.Color.White;
-            this.gunaGradient2Panel8.Location = new System.Drawing.Point(30, 17);
+            this.gunaGradient2Panel8.Location = new System.Drawing.Point(0, 0);
             this.gunaGradient2Panel8.Name = "gunaGradient2Panel8";
             this.gunaGradient2Panel8.Radius = 20;
-            this.gunaGradient2Panel8.Size = new System.Drawing.Size(356, 349);
+            this.gunaGradient2Panel8.Size = new System.Drawing.Size(395, 395);
             this.gunaGradient2Panel8.TabIndex = 0;
             // 
             // label9
             // 
+            this.label9.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.label9.Location = new System.Drawing.Point(136, 282);
+            this.label9.Location = new System.Drawing.Point(155, 305);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(86, 25);
             this.label9.TabIndex = 1;
@@ -228,6 +230,7 @@
             // 
             // gunaCircleButton8
             // 
+            this.gunaCircleButton8.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.gunaCircleButton8.AnimationHoverSpeed = 0.07F;
             this.gunaCircleButton8.AnimationSpeed = 0.03F;
             this.gunaCircleButton8.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
@@ -238,7 +241,7 @@
             this.gunaCircleButton8.ForeColor = System.Drawing.Color.White;
             this.gunaCircleButton8.Image = ((System.Drawing.Image)(resources.GetObject("gunaCircleButton8.Image")));
             this.gunaCircleButton8.ImageSize = new System.Drawing.Size(80, 80);
-            this.gunaCircleButton8.Location = new System.Drawing.Point(78, 56);
+            this.gunaCircleButton8.Location = new System.Drawing.Point(97, 79);
             this.gunaCircleButton8.Name = "gunaCircleButton8";
             this.gunaCircleButton8.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(43)))), ((int)(((byte)(144)))), ((int)(((byte)(212)))));
             this.gunaCircleButton8.OnHoverBorderColor = System.Drawing.Color.Black;
@@ -262,20 +265,22 @@
             this.gunaGradient2Panel7.BackColor = System.Drawing.Color.Transparent;
             this.gunaGradient2Panel7.Controls.Add(this.label8);
             this.gunaGradient2Panel7.Controls.Add(this.gunaCircleButton7);
+            this.gunaGradient2Panel7.Dock = System.Windows.Forms.DockStyle.Fill;
             this.gunaGradient2Panel7.GradientColor1 = System.Drawing.Color.White;
             this.gunaGradient2Panel7.GradientColor2 = System.Drawing.Color.White;
-            this.gunaGradient2Panel7.Location = new System.Drawing.Point(30, 17);
+            this.gunaGradient2Panel7.Location = new System.Drawing.Point(0, 0);
             this.gunaGradient2Panel7.Name = "gunaGradient2Panel7";
             this.gunaGradient2Panel7.Radius = 20;
-            this.gunaGradient2Panel7.Size = new System.Drawing.Size(356, 349);
+            this.gunaGradient2Panel7.Size = new System.Drawing.Size(395, 395);
             this.gunaGradient2Panel7.TabIndex = 0;
             // 
             // label8
             // 
+            this.label8.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.label8.Location = new System.Drawing.Point(136, 282);
+            this.label8.Location = new System.Drawing.Point(141, 305);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(102, 25);
             this.label8.TabIndex = 1;
@@ -283,6 +288,7 @@
             // 
             // gunaCircleButton7
             // 
+            this.gunaCircleButton7.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.gunaCircleButton7.AnimationHoverSpeed = 0.07F;
             this.gunaCircleButton7.AnimationSpeed = 0.03F;
             this.gunaCircleButton7.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
@@ -293,7 +299,7 @@
             this.gunaCircleButton7.ForeColor = System.Drawing.Color.White;
             this.gunaCircleButton7.Image = ((System.Drawing.Image)(resources.GetObject("gunaCircleButton7.Image")));
             this.gunaCircleButton7.ImageSize = new System.Drawing.Size(80, 80);
-            this.gunaCircleButton7.Location = new System.Drawing.Point(78, 56);
+            this.gunaCircleButton7.Location = new System.Drawing.Point(97, 79);
             this.gunaCircleButton7.Name = "gunaCircleButton7";
             this.gunaCircleButton7.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(184)))), ((int)(((byte)(24)))), ((int)(((byte)(94)))));
             this.gunaCircleButton7.OnHoverBorderColor = System.Drawing.Color.Black;
@@ -318,20 +324,22 @@
             this.gunaGradient2Panel6.BackColor = System.Drawing.Color.Transparent;
             this.gunaGradient2Panel6.Controls.Add(this.label7);
             this.gunaGradient2Panel6.Controls.Add(this.gunaCircleButton6);
+            this.gunaGradient2Panel6.Dock = System.Windows.Forms.DockStyle.Fill;
             this.gunaGradient2Panel6.GradientColor1 = System.Drawing.Color.White;
             this.gunaGradient2Panel6.GradientColor2 = System.Drawing.Color.White;
-            this.gunaGradient2Panel6.Location = new System.Drawing.Point(30, 17);
+            this.gunaGradient2Panel6.Location = new System.Drawing.Point(0, 0);
             this.gunaGradient2Panel6.Name = "gunaGradient2Panel6";
             this.gunaGradient2Panel6.Radius = 20;
-            this.gunaGradient2Panel6.Size = new System.Drawing.Size(356, 349);
+            this.gunaGradient2Panel6.Size = new System.Drawing.Size(395, 395);
             this.gunaGradient2Panel6.TabIndex = 0;
             // 
             // label7
             // 
+            this.label7.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.label7.Location = new System.Drawing.Point(136, 282);
+            this.label7.Location = new System.Drawing.Point(141, 305);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(118, 25);
             this.label7.TabIndex = 1;
@@ -339,6 +347,7 @@
             // 
             // gunaCircleButton6
             // 
+            this.gunaCircleButton6.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.gunaCircleButton6.AnimationHoverSpeed = 0.07F;
             this.gunaCircleButton6.AnimationSpeed = 0.03F;
             this.gunaCircleButton6.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(165)))), ((int)(((byte)(176)))));
@@ -349,7 +358,7 @@
             this.gunaCircleButton6.ForeColor = System.Drawing.Color.White;
             this.gunaCircleButton6.Image = ((System.Drawing.Image)(resources.GetObject("gunaCircleButton6.Image")));
             this.gunaCircleButton6.ImageSize = new System.Drawing.Size(80, 80);
-            this.gunaCircleButton6.Location = new System.Drawing.Point(78, 56);
+            this.gunaCircleButton6.Location = new System.Drawing.Point(97, 79);
             this.gunaCircleButton6.Name = "gunaCircleButton6";
             this.gunaCircleButton6.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(151)))), ((int)(((byte)(143)))), ((int)(((byte)(255)))));
             this.gunaCircleButton6.OnHoverBorderColor = System.Drawing.Color.Black;
@@ -373,20 +382,22 @@
             this.gunaGradient2Panel5.BackColor = System.Drawing.Color.Transparent;
             this.gunaGradient2Panel5.Controls.Add(this.label6);
             this.gunaGradient2Panel5.Controls.Add(this.gunaCircleButton5);
+            this.gunaGradient2Panel5.Dock = System.Windows.Forms.DockStyle.Fill;
             this.gunaGradient2Panel5.GradientColor1 = System.Drawing.Color.White;
             this.gunaGradient2Panel5.GradientColor2 = System.Drawing.Color.White;
-            this.gunaGradient2Panel5.Location = new System.Drawing.Point(30, 17);
+            this.gunaGradient2Panel5.Location = new System.Drawing.Point(0, 0);
             this.gunaGradient2Panel5.Name = "gunaGradient2Panel5";
             this.gunaGradient2Panel5.Radius = 20;
-            this.gunaGradient2Panel5.Size = new System.Drawing.Size(356, 349);
+            this.gunaGradient2Panel5.Size = new System.Drawing.Size(395, 395);
             this.gunaGradient2Panel5.TabIndex = 0;
             // 
             // label6
             // 
+            this.label6.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.label6.Location = new System.Drawing.Point(136, 282);
+            this.label6.Location = new System.Drawing.Point(164, 305);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(77, 25);
             this.label6.TabIndex = 1;
@@ -394,6 +405,7 @@
             // 
             // gunaCircleButton5
             // 
+            this.gunaCircleButton5.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.gunaCircleButton5.AnimationHoverSpeed = 0.07F;
             this.gunaCircleButton5.AnimationSpeed = 0.03F;
             this.gunaCircleButton5.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(188)))), ((int)(((byte)(212)))));
@@ -404,7 +416,7 @@
             this.gunaCircleButton5.ForeColor = System.Drawing.Color.White;
             this.gunaCircleButton5.Image = ((System.Drawing.Image)(resources.GetObject("gunaCircleButton5.Image")));
             this.gunaCircleButton5.ImageSize = new System.Drawing.Size(80, 80);
-            this.gunaCircleButton5.Location = new System.Drawing.Point(78, 56);
+            this.gunaCircleButton5.Location = new System.Drawing.Point(97, 79);
             this.gunaCircleButton5.Name = "gunaCircleButton5";
             this.gunaCircleButton5.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(151)))), ((int)(((byte)(143)))), ((int)(((byte)(255)))));
             this.gunaCircleButton5.OnHoverBorderColor = System.Drawing.Color.Black;
@@ -428,20 +440,22 @@
             this.gunaGradient2Panel4.BackColor = System.Drawing.Color.Transparent;
             this.gunaGradient2Panel4.Controls.Add(this.label5);
             this.gunaGradient2Panel4.Controls.Add(this.gunaCircleButton4);
+            this.gunaGradient2Panel4.Dock = System.Windows.Forms.DockStyle.Fill;
             this.gunaGradient2Panel4.GradientColor1 = System.Drawing.Color.White;
             this.gunaGradient2Panel4.GradientColor2 = System.Drawing.Color.White;
-            this.gunaGradient2Panel4.Location = new System.Drawing.Point(30, 18);
+            this.gunaGradient2Panel4.Location = new System.Drawing.Point(0, 0);
             this.gunaGradient2Panel4.Name = "gunaGradient2Panel4";
             this.gunaGradient2Panel4.Radius = 20;
-            this.gunaGradient2Panel4.Size = new System.Drawing.Size(356, 349);
+            this.gunaGradient2Panel4.Size = new System.Drawing.Size(395, 395);
             this.gunaGradient2Panel4.TabIndex = 1;
             // 
             // label5
             // 
+            this.label5.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.label5.Location = new System.Drawing.Point(136, 282);
+            this.label5.Location = new System.Drawing.Point(155, 305);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(84, 25);
             this.label5.TabIndex = 1;
@@ -449,6 +463,7 @@
             // 
             // gunaCircleButton4
             // 
+            this.gunaCircleButton4.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.gunaCircleButton4.AnimationHoverSpeed = 0.07F;
             this.gunaCircleButton4.AnimationSpeed = 0.03F;
             this.gunaCircleButton4.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(125)))), ((int)(((byte)(9)))));
@@ -459,7 +474,7 @@
             this.gunaCircleButton4.ForeColor = System.Drawing.Color.White;
             this.gunaCircleButton4.Image = ((System.Drawing.Image)(resources.GetObject("gunaCircleButton4.Image")));
             this.gunaCircleButton4.ImageSize = new System.Drawing.Size(80, 80);
-            this.gunaCircleButton4.Location = new System.Drawing.Point(78, 56);
+            this.gunaCircleButton4.Location = new System.Drawing.Point(97, 79);
             this.gunaCircleButton4.Name = "gunaCircleButton4";
             this.gunaCircleButton4.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(151)))), ((int)(((byte)(143)))), ((int)(((byte)(255)))));
             this.gunaCircleButton4.OnHoverBorderColor = System.Drawing.Color.Black;
@@ -483,20 +498,22 @@
             this.gunaGradient2Panel3.BackColor = System.Drawing.Color.Transparent;
             this.gunaGradient2Panel3.Controls.Add(this.label4);
             this.gunaGradient2Panel3.Controls.Add(this.gunaCircleButton3);
+            this.gunaGradient2Panel3.Dock = System.Windows.Forms.DockStyle.Fill;
             this.gunaGradient2Panel3.GradientColor1 = System.Drawing.Color.White;
             this.gunaGradient2Panel3.GradientColor2 = System.Drawing.Color.White;
-            this.gunaGradient2Panel3.Location = new System.Drawing.Point(20, 18);
+            this.gunaGradient2Panel3.Location = new System.Drawing.Point(0, 0);
             this.gunaGradient2Panel3.Name = "gunaGradient2Panel3";
             this.gunaGradient2Panel3.Radius = 20;
-            this.gunaGradient2Panel3.Size = new System.Drawing.Size(356, 349);
+            this.gunaGradient2Panel3.Size = new System.Drawing.Size(395, 395);
             this.gunaGradient2Panel3.TabIndex = 1;
             // 
             // label4
             // 
+            this.label4.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.label4.Location = new System.Drawing.Point(136, 282);
+            this.label4.Location = new System.Drawing.Point(155, 305);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(88, 25);
             this.label4.TabIndex = 1;
@@ -504,6 +521,7 @@
             // 
             // gunaCircleButton3
             // 
+            this.gunaCircleButton3.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.gunaCircleButton3.AnimationHoverSpeed = 0.07F;
             this.gunaCircleButton3.AnimationSpeed = 0.03F;
             this.gunaCircleButton3.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(16)))), ((int)(((byte)(154)))), ((int)(((byte)(71)))));
@@ -514,7 +532,7 @@
             this.gunaCircleButton3.ForeColor = System.Drawing.Color.White;
             this.gunaCircleButton3.Image = ((System.Drawing.Image)(resources.GetObject("gunaCircleButton3.Image")));
             this.gunaCircleButton3.ImageSize = new System.Drawing.Size(80, 80);
-            this.gunaCircleButton3.Location = new System.Drawing.Point(78, 56);
+            this.gunaCircleButton3.Location = new System.Drawing.Point(97, 79);
             this.gunaCircleButton3.Name = "gunaCircleButton3";
             this.gunaCircleButton3.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(151)))), ((int)(((byte)(143)))), ((int)(((byte)(255)))));
             this.gunaCircleButton3.OnHoverBorderColor = System.Drawing.Color.Black;
@@ -538,20 +556,22 @@
             this.gunaGradient2Panel2.BackColor = System.Drawing.Color.Transparent;
             this.gunaGradient2Panel2.Controls.Add(this.label3);
             this.gunaGradient2Panel2.Controls.Add(this.gunaCircleButton2);
+            this.gunaGradient2Panel2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.gunaGradient2Panel2.GradientColor1 = System.Drawing.Color.White;
             this.gunaGradient2Panel2.GradientColor2 = System.Drawing.Color.White;
-            this.gunaGradient2Panel2.Location = new System.Drawing.Point(24, 18);
+            this.gunaGradient2Panel2.Location = new System.Drawing.Point(0, 0);
             this.gunaGradient2Panel2.Name = "gunaGradient2Panel2";
             this.gunaGradient2Panel2.Radius = 20;
-            this.gunaGradient2Panel2.Size = new System.Drawing.Size(356, 349);
+            this.gunaGradient2Panel2.Size = new System.Drawing.Size(395, 395);
             this.gunaGradient2Panel2.TabIndex = 1;
             // 
             // label3
             // 
+            this.label3.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.label3.Location = new System.Drawing.Point(136, 282);
+            this.label3.Location = new System.Drawing.Point(155, 305);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(78, 25);
             this.label3.TabIndex = 1;
@@ -559,6 +579,7 @@
             // 
             // gunaCircleButton2
             // 
+            this.gunaCircleButton2.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.gunaCircleButton2.AnimationHoverSpeed = 0.07F;
             this.gunaCircleButton2.AnimationSpeed = 0.03F;
             this.gunaCircleButton2.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(227)))), ((int)(((byte)(73)))), ((int)(((byte)(93)))));
@@ -569,7 +590,7 @@
             this.gunaCircleButton2.ForeColor = System.Drawing.Color.White;
             this.gunaCircleButton2.Image = ((System.Drawing.Image)(resources.GetObject("gunaCircleButton2.Image")));
             this.gunaCircleButton2.ImageSize = new System.Drawing.Size(80, 80);
-            this.gunaCircleButton2.Location = new System.Drawing.Point(78, 56);
+            this.gunaCircleButton2.Location = new System.Drawing.Point(97, 79);
             this.gunaCircleButton2.Name = "gunaCircleButton2";
             this.gunaCircleButton2.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(151)))), ((int)(((byte)(143)))), ((int)(((byte)(255)))));
             this.gunaCircleButton2.OnHoverBorderColor = System.Drawing.Color.Black;
@@ -593,20 +614,22 @@
             this.gunaGradient2Panel1.BackColor = System.Drawing.Color.Transparent;
             this.gunaGradient2Panel1.Controls.Add(this.label2);
             this.gunaGradient2Panel1.Controls.Add(this.gunaCircleButton1);
+            this.gunaGradient2Panel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.gunaGradient2Panel1.GradientColor1 = System.Drawing.Color.White;
             this.gunaGradient2Panel1.GradientColor2 = System.Drawing.Color.White;
-            this.gunaGradient2Panel1.Location = new System.Drawing.Point(30, 17);
+            this.gunaGradient2Panel1.Location = new System.Drawing.Point(0, 0);
             this.gunaGradient2Panel1.Name = "gunaGradient2Panel1";
             this.gunaGradient2Panel1.Radius = 20;
-            this.gunaGradient2Panel1.Size = new System.Drawing.Size(356, 349);
+            this.gunaGradient2Panel1.Size = new System.Drawing.Size(395, 395);
             this.gunaGradient2Panel1.TabIndex = 0;
             // 
             // label2
             // 
+            this.label2.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.label2.Location = new System.Drawing.Point(136, 282);
+            this.label2.Location = new System.Drawing.Point(155, 305);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(86, 25);
             this.label2.TabIndex = 1;
@@ -614,6 +637,7 @@
             // 
             // gunaCircleButton1
             // 
+            this.gunaCircleButton1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.gunaCircleButton1.AnimationHoverSpeed = 0.07F;
             this.gunaCircleButton1.AnimationSpeed = 0.03F;
             this.gunaCircleButton1.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
@@ -624,7 +648,7 @@
             this.gunaCircleButton1.ForeColor = System.Drawing.Color.White;
             this.gunaCircleButton1.Image = ((System.Drawing.Image)(resources.GetObject("gunaCircleButton1.Image")));
             this.gunaCircleButton1.ImageSize = new System.Drawing.Size(80, 80);
-            this.gunaCircleButton1.Location = new System.Drawing.Point(78, 56);
+            this.gunaCircleButton1.Location = new System.Drawing.Point(97, 79);
             this.gunaCircleButton1.Name = "gunaCircleButton1";
             this.gunaCircleButton1.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(151)))), ((int)(((byte)(143)))), ((int)(((byte)(255)))));
             this.gunaCircleButton1.OnHoverBorderColor = System.Drawing.Color.Black;
