@@ -109,3 +109,6 @@ D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmVoucher.r
 D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
 D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.thoiGianThongKe.resources
 D:\HK7\PTUDTM\Demo\QL_NhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.Cache
+D:\HK7\PTUDTM\Clone_Reponsibility\QL_NhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+D:\HK7\PTUDTM\Clone_Reponsibility\QL_NhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+D:\HK7\PTUDTM\Clone_Reponsibility\QL_NhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
