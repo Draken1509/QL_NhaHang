@@ -117,8 +117,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="icons8-menu-48" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons8-menu-48.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="gunaImageButton1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAACxMAAAsTAQCanBgAAAEISURBVGhD7ZZLDoJAEES5BIkMnwsJ8Tbi3pB4KdArKW5c
+        aXVS4ELYMp1YL+kM9MyietINlQghxA9Zlh1CCDfE0wLvV6wNt30DoRfEeyU6HvMJb/6N9YU4lmUZLPDc
+        Wo5F1DzuD4iztrECWqZmLMe9gSl/QOBoIquqypiaSdN0Z3uIB1P+mAqwtmFqpiiKnAXcmfIH2sO+Nmst
+        dOJez5Q/ILChSBvidmmI8zzf87hPILIzoUuBIs485huIrSF2wGozMeK5d3/zQogvGFq50Sjw5qcfmdzo
+        5kCg3GhU0B5yo9GBSLlRIURkMLRyo1HgzU8/MrnRzYFAudGooD3kRqMDkXKjQoi/IUk+WoPYvnlMOzkA
+        AAAASUVORK5CYII=
+</value>
   </data>
 </root>

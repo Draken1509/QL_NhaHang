@@ -116,11 +116,17 @@
     <Compile Include="frmNhapHang.Designer.cs">
       <DependentUpon>frmNhapHang.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmSanPham.cs">
+    <Compile Include="frmSP.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmSanPham.Designer.cs">
-      <DependentUpon>frmSanPham.cs</DependentUpon>
+    <Compile Include="frmSP.Designer.cs">
+      <DependentUpon>frmSP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_DonOnline.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_DonOnline.Designer.cs">
+      <DependentUpon>frm_DonOnline.cs</DependentUpon>
     </Compile>
     <Compile Include="frmTaiBan.cs">
       <SubType>Form</SubType>
@@ -215,8 +221,11 @@
     <EmbeddedResource Include="frmNhapHang.resx">
       <DependentUpon>frmNhapHang.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmSanPham.resx">
-      <DependentUpon>frmSanPham.cs</DependentUpon>
+    <EmbeddedResource Include="frmSP.resx">
+      <DependentUpon>frmSP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_DonOnline.resx">
+      <DependentUpon>frm_DonOnline.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmTaiBan.resx">
       <DependentUpon>frmTaiBan.cs</DependentUpon>
@@ -297,12 +306,23 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="Image\icons8-arrow-down-50.png" />
+  </ItemGroup>
   <ItemGroup>
     <None Include="Image\billwwhite.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Image1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\icons8-arrow-down-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\icons8-plus-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Image\icons8-menu-64 %281%29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

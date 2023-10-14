@@ -28,17 +28,15 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmThongKeTongQuan));
             System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
             System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
             System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmThongKeTongQuan));
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel4 = new System.Windows.Forms.Panel();
             this.label19 = new System.Windows.Forms.Label();
-            this.gunaImageButton6 = new Guna.UI.WinForms.GunaImageButton();
             this.panel3 = new System.Windows.Forms.Panel();
             this.cbo_thonngke = new Guna.UI.WinForms.GunaComboBox();
-            this.gunaImageButton1 = new Guna.UI.WinForms.GunaImageButton();
             this.panel2 = new System.Windows.Forms.Panel();
             this.gunaGradient2Panel2 = new Guna.UI.WinForms.GunaGradient2Panel();
             this.lbl_Title = new System.Windows.Forms.Label();
@@ -54,15 +52,11 @@
             this.label12 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
-            this.gunaImageButton5 = new Guna.UI.WinForms.GunaImageButton();
             this.label9 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
-            this.gunaImageButton4 = new Guna.UI.WinForms.GunaImageButton();
             this.label7 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
-            this.gunaImageButton3 = new Guna.UI.WinForms.GunaImageButton();
             this.label5 = new System.Windows.Forms.Label();
-            this.gunaImageButton2 = new Guna.UI.WinForms.GunaImageButton();
             this.panel10 = new System.Windows.Forms.Panel();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.panel5 = new System.Windows.Forms.Panel();
@@ -87,6 +81,12 @@
             this.label2 = new System.Windows.Forms.Label();
             this.panel15 = new System.Windows.Forms.Panel();
             this.gunaGradient2Panel6 = new Guna.UI.WinForms.GunaGradient2Panel();
+            this.gunaImageButton5 = new Guna.UI.WinForms.GunaImageButton();
+            this.gunaImageButton4 = new Guna.UI.WinForms.GunaImageButton();
+            this.gunaImageButton3 = new Guna.UI.WinForms.GunaImageButton();
+            this.gunaImageButton2 = new Guna.UI.WinForms.GunaImageButton();
+            this.gunaImageButton6 = new Guna.UI.WinForms.GunaImageButton();
+            this.gunaImageButton1 = new Guna.UI.WinForms.GunaImageButton();
             this.panel1.SuspendLayout();
             this.panel4.SuspendLayout();
             this.panel3.SuspendLayout();
@@ -146,18 +146,6 @@
             this.label19.TabIndex = 8;
             this.label19.Text = "Nhà hàng XXX";
             // 
-            // gunaImageButton6
-            // 
-            this.gunaImageButton6.DialogResult = System.Windows.Forms.DialogResult.None;
-            this.gunaImageButton6.Image = ((System.Drawing.Image)(resources.GetObject("gunaImageButton6.Image")));
-            this.gunaImageButton6.ImageSize = new System.Drawing.Size(34, 34);
-            this.gunaImageButton6.Location = new System.Drawing.Point(6, 8);
-            this.gunaImageButton6.Name = "gunaImageButton6";
-            this.gunaImageButton6.OnHoverImage = null;
-            this.gunaImageButton6.OnHoverImageOffset = new System.Drawing.Point(0, 0);
-            this.gunaImageButton6.Size = new System.Drawing.Size(63, 43);
-            this.gunaImageButton6.TabIndex = 1;
-            // 
             // panel3
             // 
             this.panel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(159)))), ((int)(((byte)(3)))));
@@ -198,18 +186,6 @@
             this.cbo_thonngke.Size = new System.Drawing.Size(670, 39);
             this.cbo_thonngke.TabIndex = 2;
             this.cbo_thonngke.SelectedIndexChanged += new System.EventHandler(this.cbo_thonngke_SelectedIndexChanged);
-            // 
-            // gunaImageButton1
-            // 
-            this.gunaImageButton1.DialogResult = System.Windows.Forms.DialogResult.None;
-            this.gunaImageButton1.Image = ((System.Drawing.Image)(resources.GetObject("gunaImageButton1.Image")));
-            this.gunaImageButton1.ImageSize = new System.Drawing.Size(30, 30);
-            this.gunaImageButton1.Location = new System.Drawing.Point(0, 6);
-            this.gunaImageButton1.Name = "gunaImageButton1";
-            this.gunaImageButton1.OnHoverImage = null;
-            this.gunaImageButton1.OnHoverImageOffset = new System.Drawing.Point(0, 0);
-            this.gunaImageButton1.Size = new System.Drawing.Size(50, 42);
-            this.gunaImageButton1.TabIndex = 0;
             // 
             // panel2
             // 
@@ -385,18 +361,6 @@
             this.label10.TabIndex = 9;
             this.label10.Text = "Hóa đơn";
             // 
-            // gunaImageButton5
-            // 
-            this.gunaImageButton5.DialogResult = System.Windows.Forms.DialogResult.None;
-            this.gunaImageButton5.Image = ((System.Drawing.Image)(resources.GetObject("gunaImageButton5.Image")));
-            this.gunaImageButton5.ImageSize = new System.Drawing.Size(34, 34);
-            this.gunaImageButton5.Location = new System.Drawing.Point(22, 290);
-            this.gunaImageButton5.Name = "gunaImageButton5";
-            this.gunaImageButton5.OnHoverImage = null;
-            this.gunaImageButton5.OnHoverImageOffset = new System.Drawing.Point(0, 0);
-            this.gunaImageButton5.Size = new System.Drawing.Size(63, 43);
-            this.gunaImageButton5.TabIndex = 8;
-            // 
             // label9
             // 
             this.label9.AutoSize = true;
@@ -414,18 +378,6 @@
             this.label8.Size = new System.Drawing.Size(84, 17);
             this.label8.TabIndex = 6;
             this.label8.Text = "Khách hàng";
-            // 
-            // gunaImageButton4
-            // 
-            this.gunaImageButton4.DialogResult = System.Windows.Forms.DialogResult.None;
-            this.gunaImageButton4.Image = ((System.Drawing.Image)(resources.GetObject("gunaImageButton4.Image")));
-            this.gunaImageButton4.ImageSize = new System.Drawing.Size(34, 34);
-            this.gunaImageButton4.Location = new System.Drawing.Point(22, 196);
-            this.gunaImageButton4.Name = "gunaImageButton4";
-            this.gunaImageButton4.OnHoverImage = null;
-            this.gunaImageButton4.OnHoverImageOffset = new System.Drawing.Point(0, 0);
-            this.gunaImageButton4.Size = new System.Drawing.Size(63, 43);
-            this.gunaImageButton4.TabIndex = 5;
             // 
             // label7
             // 
@@ -446,18 +398,6 @@
             this.label6.TabIndex = 3;
             this.label6.Text = "Theo ca";
             // 
-            // gunaImageButton3
-            // 
-            this.gunaImageButton3.DialogResult = System.Windows.Forms.DialogResult.None;
-            this.gunaImageButton3.Image = ((System.Drawing.Image)(resources.GetObject("gunaImageButton3.Image")));
-            this.gunaImageButton3.ImageSize = new System.Drawing.Size(34, 34);
-            this.gunaImageButton3.Location = new System.Drawing.Point(22, 87);
-            this.gunaImageButton3.Name = "gunaImageButton3";
-            this.gunaImageButton3.OnHoverImage = null;
-            this.gunaImageButton3.OnHoverImageOffset = new System.Drawing.Point(0, 0);
-            this.gunaImageButton3.Size = new System.Drawing.Size(63, 43);
-            this.gunaImageButton3.TabIndex = 2;
-            // 
             // label5
             // 
             this.label5.AutoSize = true;
@@ -466,18 +406,6 @@
             this.label5.Size = new System.Drawing.Size(160, 17);
             this.label5.TabIndex = 1;
             this.label5.Text = "Phương thức thanh toán";
-            // 
-            // gunaImageButton2
-            // 
-            this.gunaImageButton2.DialogResult = System.Windows.Forms.DialogResult.None;
-            this.gunaImageButton2.Image = ((System.Drawing.Image)(resources.GetObject("gunaImageButton2.Image")));
-            this.gunaImageButton2.ImageSize = new System.Drawing.Size(34, 34);
-            this.gunaImageButton2.Location = new System.Drawing.Point(22, 18);
-            this.gunaImageButton2.Name = "gunaImageButton2";
-            this.gunaImageButton2.OnHoverImage = null;
-            this.gunaImageButton2.OnHoverImageOffset = new System.Drawing.Point(0, 0);
-            this.gunaImageButton2.Size = new System.Drawing.Size(63, 43);
-            this.gunaImageButton2.TabIndex = 0;
             // 
             // panel10
             // 
@@ -742,6 +670,78 @@
             this.gunaGradient2Panel6.Name = "gunaGradient2Panel6";
             this.gunaGradient2Panel6.Size = new System.Drawing.Size(563, 2);
             this.gunaGradient2Panel6.TabIndex = 9;
+            // 
+            // gunaImageButton5
+            // 
+            this.gunaImageButton5.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.gunaImageButton5.Image = ((System.Drawing.Image)(resources.GetObject("gunaImageButton5.Image")));
+            this.gunaImageButton5.ImageSize = new System.Drawing.Size(34, 34);
+            this.gunaImageButton5.Location = new System.Drawing.Point(22, 290);
+            this.gunaImageButton5.Name = "gunaImageButton5";
+            this.gunaImageButton5.OnHoverImage = null;
+            this.gunaImageButton5.OnHoverImageOffset = new System.Drawing.Point(0, 0);
+            this.gunaImageButton5.Size = new System.Drawing.Size(63, 43);
+            this.gunaImageButton5.TabIndex = 8;
+            // 
+            // gunaImageButton4
+            // 
+            this.gunaImageButton4.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.gunaImageButton4.Image = ((System.Drawing.Image)(resources.GetObject("gunaImageButton4.Image")));
+            this.gunaImageButton4.ImageSize = new System.Drawing.Size(34, 34);
+            this.gunaImageButton4.Location = new System.Drawing.Point(22, 196);
+            this.gunaImageButton4.Name = "gunaImageButton4";
+            this.gunaImageButton4.OnHoverImage = null;
+            this.gunaImageButton4.OnHoverImageOffset = new System.Drawing.Point(0, 0);
+            this.gunaImageButton4.Size = new System.Drawing.Size(63, 43);
+            this.gunaImageButton4.TabIndex = 5;
+            // 
+            // gunaImageButton3
+            // 
+            this.gunaImageButton3.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.gunaImageButton3.Image = ((System.Drawing.Image)(resources.GetObject("gunaImageButton3.Image")));
+            this.gunaImageButton3.ImageSize = new System.Drawing.Size(34, 34);
+            this.gunaImageButton3.Location = new System.Drawing.Point(22, 87);
+            this.gunaImageButton3.Name = "gunaImageButton3";
+            this.gunaImageButton3.OnHoverImage = null;
+            this.gunaImageButton3.OnHoverImageOffset = new System.Drawing.Point(0, 0);
+            this.gunaImageButton3.Size = new System.Drawing.Size(63, 43);
+            this.gunaImageButton3.TabIndex = 2;
+            // 
+            // gunaImageButton2
+            // 
+            this.gunaImageButton2.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.gunaImageButton2.Image = ((System.Drawing.Image)(resources.GetObject("gunaImageButton2.Image")));
+            this.gunaImageButton2.ImageSize = new System.Drawing.Size(34, 34);
+            this.gunaImageButton2.Location = new System.Drawing.Point(22, 18);
+            this.gunaImageButton2.Name = "gunaImageButton2";
+            this.gunaImageButton2.OnHoverImage = null;
+            this.gunaImageButton2.OnHoverImageOffset = new System.Drawing.Point(0, 0);
+            this.gunaImageButton2.Size = new System.Drawing.Size(63, 43);
+            this.gunaImageButton2.TabIndex = 0;
+            // 
+            // gunaImageButton6
+            // 
+            this.gunaImageButton6.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.gunaImageButton6.Image = ((System.Drawing.Image)(resources.GetObject("gunaImageButton6.Image")));
+            this.gunaImageButton6.ImageSize = new System.Drawing.Size(34, 34);
+            this.gunaImageButton6.Location = new System.Drawing.Point(6, 8);
+            this.gunaImageButton6.Name = "gunaImageButton6";
+            this.gunaImageButton6.OnHoverImage = null;
+            this.gunaImageButton6.OnHoverImageOffset = new System.Drawing.Point(0, 0);
+            this.gunaImageButton6.Size = new System.Drawing.Size(63, 43);
+            this.gunaImageButton6.TabIndex = 1;
+            // 
+            // gunaImageButton1
+            // 
+            this.gunaImageButton1.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.gunaImageButton1.Image = ((System.Drawing.Image)(resources.GetObject("gunaImageButton1.Image")));
+            this.gunaImageButton1.ImageSize = new System.Drawing.Size(30, 30);
+            this.gunaImageButton1.Location = new System.Drawing.Point(0, 6);
+            this.gunaImageButton1.Name = "gunaImageButton1";
+            this.gunaImageButton1.OnHoverImage = null;
+            this.gunaImageButton1.OnHoverImageOffset = new System.Drawing.Point(0, 0);
+            this.gunaImageButton1.Size = new System.Drawing.Size(50, 42);
+            this.gunaImageButton1.TabIndex = 0;
             // 
             // frmThongKeTongQuan
             // 

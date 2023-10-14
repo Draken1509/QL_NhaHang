@@ -55,6 +55,12 @@
     <Compile Include="cardMoRong.Designer.cs">
       <DependentUpon>cardMoRong.cs</DependentUpon>
     </Compile>
+    <Compile Include="DangXuLY.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DangXuLY.Designer.cs">
+      <DependentUpon>DangXuLY.cs</DependentUpon>
+    </Compile>
     <Compile Include="MyCustomCalendar.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -73,6 +79,9 @@
     <EmbeddedResource Include="cardMoRong.resx">
       <DependentUpon>cardMoRong.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="DangXuLY.resx">
+      <DependentUpon>DangXuLY.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MyCustomCalendar.resx">
       <DependentUpon>MyCustomCalendar.cs</DependentUpon>
     </EmbeddedResource>
@@ -80,6 +89,9 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-menu-48.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

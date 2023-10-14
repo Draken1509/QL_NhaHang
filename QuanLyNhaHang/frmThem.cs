@@ -12,7 +12,7 @@ namespace QuanLyNhaHang
 {
     public partial class frmThem : Form
     {
-        frmSanPham frmsanpham;
+        frm_DonOnline frmsanpham;
         frmThemSP frmthemsanpham;
         frmThem frmthem;
         public frmThem()
@@ -49,7 +49,7 @@ namespace QuanLyNhaHang
         {
             if (frmsanpham == null)
             {
-                frmsanpham = new frmSanPham();
+                frmsanpham = new frm_DonOnline();
                // frmthem.Close();
                 frmsanpham.FormClosed += frmsanpham_FormClosed;
                 frmsanpham.MdiParent = this;
