@@ -631,9 +631,9 @@
             this.label2.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
             this.label2.Location = new System.Drawing.Point(155, 305);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(86, 25);
+            this.label2.Size = new System.Drawing.Size(105, 25);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Hóa đơn";
+            this.label2.Text = "Đơn online";
             // 
             // gunaCircleButton1
             // 
